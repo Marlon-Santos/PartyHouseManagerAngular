@@ -1,4 +1,4 @@
-import { TemplateModule } from './template/template.module';
+import { TemplateModule } from "./template/template.module";
 import { BrowserModule } from "@angular/platform-browser";
 import { NgModule } from "@angular/core";
 import { AppRoutingModule } from "./app-routing.module";
